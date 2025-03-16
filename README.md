@@ -1,7 +1,6 @@
 # Junior Front-end developer
 - 👋 Hi, I’m @DominikRasinski.
 - 👀 I’m interested in Front-End developning and programing technics.
-- 🌱 I’m currently learning ECMAScript 6 and PHP.
 - 💞️ I'm like codding and learn something new 
 
 <!---
